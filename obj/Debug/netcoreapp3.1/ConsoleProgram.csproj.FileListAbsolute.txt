@@ -1,0 +1,14 @@
+C:\Users\Nelly\source\repos\ConsoleProgram\bin\Debug\netcoreapp3.1\ConsoleProgram.exe
+C:\Users\Nelly\source\repos\ConsoleProgram\bin\Debug\netcoreapp3.1\ConsoleProgram.deps.json
+C:\Users\Nelly\source\repos\ConsoleProgram\bin\Debug\netcoreapp3.1\ConsoleProgram.runtimeconfig.json
+C:\Users\Nelly\source\repos\ConsoleProgram\bin\Debug\netcoreapp3.1\ConsoleProgram.runtimeconfig.dev.json
+C:\Users\Nelly\source\repos\ConsoleProgram\bin\Debug\netcoreapp3.1\ConsoleProgram.dll
+C:\Users\Nelly\source\repos\ConsoleProgram\bin\Debug\netcoreapp3.1\ConsoleProgram.pdb
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.csproj.AssemblyReference.cache
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.AssemblyInfoInputs.cache
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.AssemblyInfo.cs
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.csproj.CoreCompileInputs.cache
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.dll
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.pdb
+C:\Users\Nelly\source\repos\ConsoleProgram\obj\Debug\netcoreapp3.1\ConsoleProgram.genruntimeconfig.cache
